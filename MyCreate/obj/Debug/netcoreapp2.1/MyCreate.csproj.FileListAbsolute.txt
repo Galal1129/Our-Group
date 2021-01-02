@@ -1,0 +1,229 @@
+C:\Users\jalla\source\repos\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.csprojAssemblyReference.cache
+C:\Users\jalla\source\repos\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.AssemblyInfoInputs.cache
+C:\Users\jalla\source\repos\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.AssemblyInfo.cs
+C:\Users\jalla\source\repos\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.RazorAssemblyInfo.cache
+C:\Users\jalla\source\repos\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.RazorAssemblyInfo.cs
+C:\Users\jalla\source\repos\myCreate\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\jalla\source\repos\myCreate\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\jalla\source\repos\myCreate\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\jalla\source\repos\myCreate\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\jalla\source\repos\myCreate\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\jalla\source\repos\myCreate\bin\Debug\netcoreapp2.1\MyCreate.deps.json
+C:\Users\jalla\source\repos\myCreate\bin\Debug\netcoreapp2.1\MyCreate.runtimeconfig.json
+C:\Users\jalla\source\repos\myCreate\bin\Debug\netcoreapp2.1\MyCreate.runtimeconfig.dev.json
+C:\Users\jalla\source\repos\myCreate\bin\Debug\netcoreapp2.1\MyCreate.dll
+C:\Users\jalla\source\repos\myCreate\bin\Debug\netcoreapp2.1\MyCreate.pdb
+C:\Users\jalla\source\repos\myCreate\bin\Debug\netcoreapp2.1\MyCreate.Views.dll
+C:\Users\jalla\source\repos\myCreate\bin\Debug\netcoreapp2.1\MyCreate.Views.pdb
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\MyCreate.TagHelpers.input.cache
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\MyCreate.TagHelpers.output.cache
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\MyCreate.RazorCoreGenerate.cache
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\MyCreate.RazorTargetAssemblyInfo.cache
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\MyCreate.RazorTargetAssemblyInfo.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\MyCreate.Views.pdb
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\MyCreate.dll
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\MyCreate.pdb
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\MyCreate.genruntimeconfig.cache
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\MyCreate.csproj.CopyComplete
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Home\readmasaj.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Home\News.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Categoties\Create.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Categoties\Delete.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Categoties\Details.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Categoties\Edit.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Categoties\Index.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\MyCreate.csproj.CoreCompileInputs.cache
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Carsour.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\News\Create.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\News\Delete.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\News\Details.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\News\Edit.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\News\Index.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Teammembers\Create.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Teammembers\Delete.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Teammembers\Details.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Teammembers\Edit.cshtml.g.cs
+C:\Users\jalla\source\repos\myCreate\obj\Debug\netcoreapp2.1\Razor\Views\Teammembers\Index.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.csprojAssemblyReference.cache
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.AssemblyInfoInputs.cache
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.AssemblyInfo.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.RazorAssemblyInfo.cache
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.RazorAssemblyInfo.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.TagHelpers.input.cache
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.TagHelpers.output.cache
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.RazorCoreGenerate.cache
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Home\News.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Home\readmasaj.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.RazorTargetAssemblyInfo.cache
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.RazorTargetAssemblyInfo.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.dll
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.pdb
+C:\Users\jalla\source\repos\MyCreate - Copy\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\jalla\source\repos\MyCreate - Copy\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\jalla\source\repos\MyCreate - Copy\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\jalla\source\repos\MyCreate - Copy\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\jalla\source\repos\MyCreate - Copy\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\jalla\source\repos\MyCreate - Copy\bin\Debug\netcoreapp2.1\MyCreate.deps.json
+C:\Users\jalla\source\repos\MyCreate - Copy\bin\Debug\netcoreapp2.1\MyCreate.runtimeconfig.json
+C:\Users\jalla\source\repos\MyCreate - Copy\bin\Debug\netcoreapp2.1\MyCreate.runtimeconfig.dev.json
+C:\Users\jalla\source\repos\MyCreate - Copy\bin\Debug\netcoreapp2.1\MyCreate.dll
+C:\Users\jalla\source\repos\MyCreate - Copy\bin\Debug\netcoreapp2.1\MyCreate.pdb
+C:\Users\jalla\source\repos\MyCreate - Copy\bin\Debug\netcoreapp2.1\MyCreate.Views.dll
+C:\Users\jalla\source\repos\MyCreate - Copy\bin\Debug\netcoreapp2.1\MyCreate.Views.pdb
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.Views.pdb
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.genruntimeconfig.cache
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.csproj.CopyComplete
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Categoties\Create.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Categoties\Delete.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Categoties\Details.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Categoties\Edit.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Categoties\Index.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\News\Create.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\News\Delete.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\News\Details.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\News\Edit.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\News\Index.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Teammembers\Create.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Teammembers\Delete.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Teammembers\Details.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Teammembers\Edit.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Teammembers\Index.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\_ViewImports.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\_ViewStart.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\default\Index.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Home\Teammember.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CreateButton.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CreateButtonTeammembers.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CreateButtonNews.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Operating.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DetailsPage.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_EditButton.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DeleteButton.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\MyCreate.csproj.CoreCompileInputs.cache
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\anahabers\Create.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\anahabers\Delete.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\anahabers\Details.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\anahabers\Edit.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\anahabers\Index.cshtml.g.cs
+C:\Users\jalla\source\repos\MyCreate - Copy\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_anahabers.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\bin\Debug\netcoreapp2.1\Properties\serviceDependencies.local.json
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\bin\Debug\netcoreapp2.1\MyCreate.deps.json
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\bin\Debug\netcoreapp2.1\MyCreate.runtimeconfig.json
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\bin\Debug\netcoreapp2.1\MyCreate.runtimeconfig.dev.json
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\bin\Debug\netcoreapp2.1\MyCreate.dll
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\bin\Debug\netcoreapp2.1\MyCreate.pdb
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\bin\Debug\netcoreapp2.1\MyCreate.Views.dll
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\bin\Debug\netcoreapp2.1\MyCreate.Views.pdb
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.csprojAssemblyReference.cache
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.AssemblyInfoInputs.cache
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.AssemblyInfo.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.csproj.CoreCompileInputs.cache
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.RazorAssemblyInfo.cache
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.RazorAssemblyInfo.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.TagHelpers.input.cache
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.TagHelpers.output.cache
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.RazorCoreGenerate.cache
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\anahabers\Create.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\anahabers\Delete.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\anahabers\Details.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\anahabers\Edit.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\anahabers\Index.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Categoties\Create.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Categoties\Delete.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Categoties\Details.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Categoties\Edit.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Categoties\Index.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\default\Index.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\News\Create.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\News\Delete.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\News\Details.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\News\Edit.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\News\Index.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Teammembers\Create.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Teammembers\Delete.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Teammembers\Details.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Teammembers\Edit.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\Teammembers\Index.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\_ViewImports.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\AdminPanel\Views\_ViewStart.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Home\News.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Home\readmasaj.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Home\Teammember.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_anahabers.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CreateButton.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CreateButtonNews.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CreateButtonTeammembers.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DeleteButton.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DetailsPage.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_EditButton.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Operating.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.RazorTargetAssemblyInfo.cache
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.RazorTargetAssemblyInfo.cs
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.Views.pdb
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.dll
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.pdb
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.genruntimeconfig.cache
+C:\Users\jalla\OneDrive\Desktop\Proje2021-main\MyCreate\obj\Debug\netcoreapp2.1\MyCreate.csproj.CopyComplete
