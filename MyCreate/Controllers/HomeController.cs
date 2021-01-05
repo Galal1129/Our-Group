@@ -12,7 +12,7 @@ using MyCreate.model;
 
 namespace MyCreate.Controllers
 {
-    [Authorize]
+    
 
     public class HomeController : Controller
     {

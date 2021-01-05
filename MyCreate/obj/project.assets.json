@@ -12660,11 +12660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jalla\\OneDrive\\Desktop\\Proje2021-main\\MyCreate\\MyCreate.csproj",
+      "projectUniqueName": "C:\\Users\\jalla\\OneDrive\\Desktop\\Our Group\\Our Group\\MyCreate\\MyCreate.csproj",
       "projectName": "MyCreate",
-      "projectPath": "C:\\Users\\jalla\\OneDrive\\Desktop\\Proje2021-main\\MyCreate\\MyCreate.csproj",
+      "projectPath": "C:\\Users\\jalla\\OneDrive\\Desktop\\Our Group\\Our Group\\MyCreate\\MyCreate.csproj",
       "packagesPath": "C:\\Users\\jalla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jalla\\OneDrive\\Desktop\\Proje2021-main\\MyCreate\\obj\\",
+      "outputPath": "C:\\Users\\jalla\\OneDrive\\Desktop\\Our Group\\Our Group\\MyCreate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jalla\\AppData\\Roaming\\NuGet\\NuGet.Config",
